@@ -20,7 +20,7 @@ This project is a web-based application built with **Streamlit** that allows use
 
 ---
 ## example 
-   ![Alt text]()
+   ![Alt text](https://github.com/Alanbiju255/Automatic-Certificate-Generator/blob/main/Alan%20biju.png)
 
 ## 🛠️ Installation and Setup
 
